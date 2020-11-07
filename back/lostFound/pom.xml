@@ -8,11 +8,11 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>com.lostfound</groupId>
 	<artifactId>lostFound</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>lostFound</name>
-	<description>Demo project for Spring Boot</description>
+	<description>LostFound</description>
 
 	<properties>
 		<java.version>11</java.version>
